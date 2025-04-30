@@ -60,3 +60,6 @@ HelpDeskKu adalah proyek web aplikasi sederhana yang dirancang untuk menyediakan
 
     Fungsinya:
     Aplikasi ini berfungsi sebagai platform awal untuk sistem customer service berbasis web. Cocok untuk             perusahaan, startup, atau organisasi yang ingin menyediakan support system sederhana namun interaktif kepada     penggunanya.
+
+Tampilan: https://naufalarifin565.github.io/HelpDeskKu-Muhammad-Naufal-Arifin/
+
